@@ -1,0 +1,5 @@
+activate.sh
+Cache/
+*.o
+__pycache__/
+venvs/

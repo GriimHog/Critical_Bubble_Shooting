@@ -1,5 +1,6 @@
 activate.sh
 Cache/
+.ipynb_checkpoints
 *.o
 __pycache__/
 venvs/

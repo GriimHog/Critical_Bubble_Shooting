@@ -4,15 +4,10 @@ A Python notebook that computes the critical bubble of a first-order phase trans
 
 ## Checklist
 
-### Done
-
-- [ ] Derivation of the O(3)-symmetric bounce equation from the Euclidean action
-- [ ] Toy potential V(φ, T) and its minima / T_c
-- [ ] ODE integrator for the bounce equation
-- [ ] Shooting (bisection) on φ(0) with overshoot / undershoot detection
-
-### Pending
-
+- [x] Derivation of the O(3)-symmetric bounce equation from the Euclidean action
+- [x] Toy potential V(φ, T) and its minima / T_c
+- [x] ODE integrator for the bounce equation
+- [x] Shooting (bisection) on φ(0) with overshoot / undershoot detection
 - [ ] Bubble profile φ(r) and action S₃
 - [ ] Validation: thin-wall limit, convergence, cross-check
 - [ ] S₃/T versus T, nucleation temperature T_n

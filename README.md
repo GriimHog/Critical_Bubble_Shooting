@@ -236,6 +236,10 @@ Requires Python 3 with `numpy`, `scipy`, `matplotlib` and `jupyter`.
 ├── notebook.ipynb
 ├── requirements.txt
 ├── figures/
+    ├──bubble_profile.png
+    ├──phi0sol.png
+    ├──ratio_1byR_behaviour.png
+    └──V_at_various_Temp.png
 ├── LICENSE
 └── README.md
 ```
